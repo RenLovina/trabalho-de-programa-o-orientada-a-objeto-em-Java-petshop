@@ -3,7 +3,7 @@ package petshop;
 public class ConsultaVeterinaria extends Servico {
 
     public ConsultaVeterinaria(double precoBase) {
-        super("Consulta Veterin·ria", precoBase);
+        super("Consulta Veterin√°ria", precoBase);
     }
 
     @Override
